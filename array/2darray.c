@@ -1,4 +1,5 @@
 #include <stdio.h>
 int main(){
-    printf("learn 2d array.");
+    printf("learn 2d array lerran today.");
+
 }
